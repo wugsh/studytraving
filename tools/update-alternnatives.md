@@ -48,7 +48,7 @@ gcc -v 可知道当前系统gcc的版本，如我： gcc version 4.9.2 (Debian 4
 
   指示当前系统的gcc版本。这时我选择2 gcc-4.9
 
-  ![](./img/update-alternvation/update-alternatives2.png)
+  ![](./img/update-alternvation/update-alternvatives2.png)
 
 
 现在系统的gcc版本已经切换啦。
