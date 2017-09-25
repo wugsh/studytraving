@@ -17,7 +17,7 @@
 
 #### 代码
 
-<a href="..src/topic9.c">源代码</a>
+<a href="../src/topic9.c">源代码</a>
 
 #### 附录
 
