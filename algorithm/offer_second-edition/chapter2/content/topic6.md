@@ -18,3 +18,7 @@ struct Listnode {
 
 - <a href="../src/topic6.c">栈</a>
 - <a href="../src/topic6.c">递归</a>
+
+#### 总结
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;当链表非常长的时候，就会导致函数调用层级很深，从而有可能导致函数调用栈溢出。

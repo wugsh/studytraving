@@ -26,8 +26,10 @@ static Stack *init_stack_helper(struct Listnode *head)
         return NULL;
 
     buffer = malloc(sizeof(int)*(head->cnt));
-    if (!buffer)
+    if (!buffer) {
+        free(s);
         return NULL;
+    }
 
     s->buffer = buffer;
     s->top = 0;
